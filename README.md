@@ -3,9 +3,9 @@
 DexLord provides Advanced Scam Prevention, Early Project Discovery, Real-Time Alerts, and Advanced Metrics Tools. Designed to reduce risks and highlight potential within early-stage crypto investments.
 
 - Discover promising projects early on **Ethereum** and **Solana** blockchain. 
-- Stay informed with **Real-Time Alerts** on token movements and scam warnings.
+- Stay informed with **Real-Time Alerts** on token movements.
 - Make informed decisions using our **Scanner**.
-- Leverage our **AI agent** to distill complex crypto data into straightforward, accessible alerts.
+- Leverage our **AI agent** to distill complex crypto data into straightforward alerts.
 
 ### DexLord GitHub 🌱
 
