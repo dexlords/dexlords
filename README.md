@@ -1,4 +1,4 @@
-## Welcome to DexLord 👋
+### Welcome to DexLord 👋
 
 DexLord provides Advanced Scam Prevention, Early Project Discovery, Real-Time Alerts, and Advanced Metrics Tools. Designed to reduce risks and highlight potential within early-stage crypto investments.
 
@@ -11,9 +11,3 @@ DexLord provides Advanced Scam Prevention, Early Project Discovery, Real-Time Al
 
 We've opened this github account to the public to showcase our ongoing technical work and activities. 
 While our main repositories will remain private, we plan to launch open-source projects, aiming to enhance tools within the crypto space.
-
-### Join DexLord ⚡️
-
-- **Docs:** [[link]](https://dexlord.gitbook.io/docs/)
-- **Twitter:** [[link]](https://twitter.com/dexlordErc20)
-- **Telegram:** [[link]](https://t.me/dexlorderc20)
