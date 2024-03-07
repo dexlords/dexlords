@@ -1,5 +1,7 @@
 ### Welcome to DexLord 👋
 
+![Banner related to DexLord - optional]([path/to/banner/image](https://2962118902-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FdxKXbwP6X3X8NAE37f7A%2Fuploads%2FrNac5c52jV2PeYRuSiUJ%2FWelcome%20to%20Gtibook.jpg?alt=media&token=994453e4-f2b0-413d-93dc-a90126b5062b))
+
 DexLord provides Advanced Scam Prevention, Early Project Discovery, Real-Time Alerts, and Advanced Metrics Tools. Designed to reduce risks and highlight potential within early-stage crypto investments.
 
 - Discover promising projects early on **Ethereum** and **Solana** blockchain. 
