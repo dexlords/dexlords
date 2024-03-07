@@ -1,4 +1,4 @@
-### Welcome to DexLord 👋
+### Welcome to DexLord ⚡️
 
 DexLord provides Advanced Scam Prevention, Early Project Discovery, Real-Time Alerts, and Advanced Metrics Tools. Designed to reduce risks and highlight potential within early-stage crypto investments.
 
