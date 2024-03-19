@@ -1,3 +1,5 @@
+![DexLord-Gitbook-Cover](https://github.com/dexlords/dexlords/assets/162401079/56ae23ec-768c-4667-87fc-02eea035c004)
+
 ### Welcome to DexLord ⚡️
 
 DexLord provides Advanced Scam Prevention, Early Project Discovery, Real-Time Alerts, and Advanced Metrics Tools. Designed to reduce risks and highlight potential within early-stage crypto investments.
